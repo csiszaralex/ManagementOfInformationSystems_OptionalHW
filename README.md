@@ -1,6 +1,6 @@
 # 10. Feladat
 
-## Leírás:
+## Leírás
 
 Készítsen  scriptet,  amely  futtatási  könyvtárában  és azok  alkönyvtáraiban  végignézi  az  összes  c
 kiterjesztésű  C nyelvű  forráskódot,  és  kilistázza  azon  függvények  neveit (mindet  csak  egyszer),  amelyek
